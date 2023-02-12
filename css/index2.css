@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+.num-ejercicio{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contenedor-ejercicio-uno{
+    margin-top: 15px;
+    margin-left: 360px;
+    margin-right: 360px;
+    padding: 20px;
+    background-color: #7A99AE;
+    border: 1px solid black;
+}
+.titulo-cuadro{
+    text-align: center;
+}
+.contenedor-seccion{
+    display: flex;
+    align-items: center;
+}
+.titulo-seccion-uno{
+    margin-left: 12%;
+    height: 30px;
+}
+.titulo-seccion-dos{
+    margin-left: 16%;
+    height: 30px;
+}
+
+
