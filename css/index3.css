@@ -1,0 +1,58 @@
+body{
+    background-color: gray;
+}
+.contendor-ejercicio-dos{
+    background-color: #DD1404;
+    margin-top: 15px;
+    margin-left: 310px;
+    margin-right: 310px;
+    border: 1px solid black;
+}
+.encabezado{
+    background-color: black;
+    text-align: right;
+    color: #E8ED21;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.titulo-ejercicio{
+    color: #E8ED21;
+    text-align: center;
+    font-family: cursive;
+    font-size: 300%;
+}
+.subtitulo-ejercicio{
+    text-align: center;
+    font-family: cursive;
+    font-size: x-large;
+}
+.parrafo-central{
+    color: white;
+    font-family: cursive;
+}
+.enlace{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 10px;
+    font-family: "Courier New", monospace;
+    font-size: medium ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.pie-pagina{
+    color: white;
+    margin-left: 23px;
+    margin-right: 23px;
+    display: flex;
+    justify-content: space-between;    
+}
+.imagen-inforbooks{
+    width: 80px;
+    height: 50px;
+}
