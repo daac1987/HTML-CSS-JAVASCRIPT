@@ -16,10 +16,6 @@ body{
 .titulo-cuadro{
     text-align: center;
 }
-.contenedor-seccion{
-    display: flex;
-    align-items: center;
-}
 .titulo-seccion-uno{
     margin-left: 12%;
     height: 30px;
