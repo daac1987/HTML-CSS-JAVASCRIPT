@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+.contenedor-ejercicio-siete{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 310px;
+    margin-right: 310px;
+    border: 1px solid grey;
+}
+.head{
+    display: flex;
+    align-items: self-start;
+    height: 100px;
+}
+.titulo{
+    width: 85%;
+    height: 100%;
+    font-size: x-large;
+    text-align: center;
+    border-bottom: 1px solid grey;
+}
+.foto-head{
+    text-align: center;
+    border-bottom: 1px solid grey;
+    border-left: 1px solid grey;
+    width: 15%;
+    height: 100%;
+}
+.img-head{
+    width: 90%;
+    height: 90%;
+    padding: 5px;
+}
+.primer-bloque{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.titulo-bloque{
+    margin-bottom: -6px;
+}
+.tabla{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.Respuesta-datos-Personales{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.parrafo{
+    text-align: justify;
+    margin-right: 25px;
+}
