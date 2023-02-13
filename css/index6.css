@@ -1,0 +1,22 @@
+.contenedor-ejercicio-seis{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 310px;
+    margin-right: 310px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    padding: 25px;
+}
+.titulo-form{
+    font-size: xx-large;
+    padding-bottom: 25px;
+}
+.tabla{
+    font-size: large;
+}
+.input-bg{
+    background-color: #FFFFCB;
+}
+.seleccion-sexo{
+    width: 178px;
+}

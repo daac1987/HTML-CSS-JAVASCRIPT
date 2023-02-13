@@ -1,0 +1,38 @@
+.contenedor-ejercicio-cuatro{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 290px;
+    margin-right: 290px;
+    padding: 20px;
+    border: 1px solid black;
+}
+.titulo-ejemplo-cuatro{
+    text-align: center;
+    font-size: 300%;
+    color: #495C9B;
+}
+.subtitulo-ejemplo-cuatro{
+    text-align: center;
+    margin-top: -5%;
+    font-size: large;
+}
+.seccion-img{
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-around;
+    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(60%, transparent), to(rgba(255,255,255,0.5)));
+}
+.img-ejercicio-cuatro{
+    width: 200px;
+}
+.pie-pagina{
+    text-align: center;
+    margin-top: 110px;
+}
+.logo-pie-pagina{
+    text-align: center;
+}
+.logo-rc{
+    width: 80px;
+    height: 45px;
+}

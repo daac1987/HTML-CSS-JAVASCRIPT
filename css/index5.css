@@ -1,0 +1,38 @@
+.contenedor-ejercicio-cinco{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 290px;
+    margin-right: 290px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+}
+.titulo-img{
+    font-size: 220%;
+    font-family: fantasy;
+    margin-left: 70px;
+}
+.contenedor-img{
+    display: flex;
+    justify-content: space-around;
+    margin-top: -105px;
+}
+.seccion-imag-uno{
+    display: flex;
+    align-items: center;
+}
+.seccion-imag-dos{
+    display: flex;
+    align-items: center;
+}
+.img-uno{
+    width: 200px;
+}
+.img-dos{
+    width: 300px;
+}
+.pie-pagina{
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    color: white;
+}

@@ -17,6 +17,7 @@ body{
     padding-bottom: 5px;
 }
 .titulo-ejercicio{
+    margin-top: -10%;
     color: #E8ED21;
     text-align: center;
     font-family: cursive;
@@ -26,6 +27,7 @@ body{
     text-align: center;
     font-family: cursive;
     font-size: x-large;
+    margin-top: -10%;
 }
 .parrafo-central{
     color: white;
@@ -55,4 +57,7 @@ a{
 .imagen-inforbooks{
     width: 80px;
     height: 50px;
+}
+li{
+    margin-top: -2%;
 }

@@ -20,5 +20,11 @@ body{
     margin-left: 16%;
     height: 30px;
 }
+ul{
+    margin-top: -25px;
+}
+th{
+    margin-bottom: -35px;
+}
 
 

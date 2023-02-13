@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto Uno</title>
+    <link rel="stylesheet" href="/css/navegador.css">
+    <link rel="stylesheet" href="/css/index6.css">
+</head>
+<body>
+
+    <div  id="contenedor-nav">
+        <img class="logoHtml" src="/img/html-5.png" alt="html">
+        <h1 class="subtitulo">Porgramaciòn IV</h1>
+        <nav>
+            <a class="enlace-nav" href="index.html">Portada</a>
+            <a class="enlace-nav" href="index2.html">Ejercicio Dos</a>
+            <a class="enlace-nav" href="index3.html">Ejercicio tres</a>
+            <a class="enlace-nav" href="index4.html">Ejercicio Cuatro</a>
+            <a class="enlace-nav" href="index5.html">Ejercicio Cinco</a>
+            <a class="enlace-nav" href="index6.html">Ejercicio Seis</a>
+            <a class="enlace-nav" href="#">Ejercicio Seis</a>
+            <a class="enlace-nav" href="#">Ejercicio Siete</a>
+            <a class="enlace-nav" href="#">Ejercicio Ocho</a>
+        </nav>
+    </div>
+
+    <div class="num-ejercicio">
+        <h1>Ejercicio Seis</h1>
+    </div>
+
+    <div class="contenedor-ejercicio-seis">
+
+        <form action="">
+
+            <legend class="titulo-form"><strong>Registrar Usuario:</strong></legend>
+
+            <table class="tabla">
+
+                <tr>
+                    <td><label for="nombre">Nombre:</label></td>
+                    <td><input class="input-bg" type="text" name="nombre" value="ab"></td>
+                    <td>el tamaño tiene que estar entre 3 y 20</td>
+                </tr>
+
+                <tr>
+                    <td><label for="apellido">Apellido:</label></td>
+                    <td><input class="input-bg" type="text" name="apellido"></td>
+                    <td>no puede estar vacio</td>
+                </tr>
+
+                <tr>
+                    <td><label for="correo">EMail:</label></td>
+                    <td><input class="input-bg" type="email" name="correo" value="cma-yahoo.es"></td>
+                    <td>no es una direccion de correo bien formada</td>
+                </tr>
+
+                <tr>
+                    <td><label for="contrasena">Contraseña:</label></td>
+                    <td><input type="password" name="contrasena" placeholder="war123456"></td>
+                    <td></td>
+                </tr>
+
+                <tr>
+                    <td><label for="edad">Edad:</label></td>
+                    <td><input class="input-bg" type="number" name="edad" min="1" value="17"></td>
+                    <td>tiene que ser mayor o igual que 18</td>
+                </tr>
+
+                <tr>
+                    <td><label for="Sexo">Sexo:</label></td>
+                    <td><select class="seleccion-sexo" name="Sexo">
+                        <option value="false">False</option>
+                        <option value="hombre">Hombre</option>
+                        <option value="mujer">Mujer</option>
+                    </select></td>
+                </tr>
+
+                <tr>
+                    <td><input type="submit" value="Submit"></td>
+                </tr>
+
+            </table>
+
+        </form>
+
+    </div>
+
+    
+</body>
+</html>
