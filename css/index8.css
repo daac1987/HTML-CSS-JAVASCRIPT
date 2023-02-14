@@ -1,0 +1,93 @@
+.contenedor-ejercicio-ocho{
+    background-color: #00007A;
+    margin-top: 15px;
+    margin-left: 235px;
+    margin-right: 235px;
+    border: 1px solid grey;
+}
+.head-ejercicio{
+    display: flex;
+    align-items: flex-start;
+    height: 125px;
+    padding: 15px;
+}
+.img-head{
+    width: 25%;
+    height: 100%;
+}
+.imagen{
+    width: 100%;
+    height: 100%;
+}
+.nombre-titulo{
+    width: 50%;
+    height: 100%;
+    color: #EBEC3A;
+    text-align: center;
+    font-size: large;
+    margin-top: -20px;
+
+}
+.siglas{
+    text-align: center;
+    margin-top: -15px;
+}
+.parrafo{
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: larger;
+    letter-spacing: 0.4px;
+}
+.parrafo-estilo-letra{
+    font-style: italic;
+}
+.linea-hr{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -10px;
+}
+.pie-pagina{
+    height: 250px;
+    display: flex;
+    align-items: flex-start;
+}
+.img-pie-pagina{
+    width: 20%;
+    height: 90%;
+    margin-left: 15px;
+    margin-bottom: 25px;
+    margin-right: 5px;
+}
+.texto-pie-pagina{
+    width: 80%;
+    height: 100%;
+    margin-right: 15px;
+}
+.direccion-logo{
+    display: flex;
+    align-items: flex-start;
+}
+.lista-pie-pagina{
+    color: white;
+    font-size: larger;
+}
+.preguntas-lista{
+    color: #EBEC3A;
+}
+.direccion{
+    width: 75%;
+    text-align: right;
+    color: #149D57;
+    margin-right: 5px;
+}
+.img-direccion{
+    width: 25%;
+    height: 100%;
+}
+.imagen-2{
+    width: 100%;
+    height: 102px;
+}
+
+
