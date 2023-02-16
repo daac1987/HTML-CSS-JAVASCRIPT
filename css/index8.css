@@ -14,6 +14,7 @@
 .img-head{
     width: 25%;
     height: 100%;
+    background-color: #840001;
 }
 .imagen{
     width: 100%;
@@ -37,7 +38,7 @@
     padding-left: 15px;
     padding-right: 15px;
     font-size: larger;
-    letter-spacing: 0.4px;
+    letter-spacing: 0.3px;
 }
 .parrafo-estilo-letra{
     font-style: italic;
@@ -58,6 +59,7 @@
     margin-left: 15px;
     margin-bottom: 25px;
     margin-right: 5px;
+    background-color: #840001;
 }
 .texto-pie-pagina{
     width: 80%;
