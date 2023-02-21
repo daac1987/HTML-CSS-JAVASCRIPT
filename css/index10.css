@@ -1,0 +1,82 @@
+@import url(//db.onlinewebfonts.com/c/96996b95c19ecf8733387b6c0b2311e3?family=Rossetti);
+.contenedor-ejercicio-diez{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 270px;
+    margin-right: 270px;
+    padding-bottom: 20px;
+    border: 1px solid black;
+    padding: 25px;
+    background-image: url(/img/tratilea.jpg);
+}
+.titulo-ejercicio-diez{
+    display: flex;
+    align-items: flex-start;
+    height: 120px;
+    margin-left: 25px;
+}
+.img-titulo{
+    width: 18%;
+    height: 100%;
+}
+.imagen-logo{
+    width: 100%;
+    height: 100%;
+}
+.letra-titulo{
+    width: 80%;
+    height: 100px;
+    color: #90688D;
+    margin-left: 5px;
+}
+.titulo-principal{
+    font-family: 'Rossetti';
+    font-size: 110px;
+    margin-top: -28px;
+    font-weight: lighter;
+}
+hr{
+    margin-top: -95px;
+}
+.div-hr{
+    text-align: left;
+    width: 87%;
+}
+.letra-subtitulo{
+    font-family: 'Cabin&display';
+    margin-top: -10px;
+    margin-left: 25px;
+}
+.cuerpo-ejercicio{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+.botones-cuerpo{
+    width: 25%;
+    margin-right: 25px;
+}
+.btn-cuerpo{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 10px;
+    box-shadow: 0px 2px 0px 2px black;
+    font-size: larger;
+    background-color: #7D5A21;
+    color: #F7ED4C;
+}
+.btn-cuerpo:hover{
+    cursor: pointer;
+}
+.img-btn{
+    width: 100%;
+    height: 100%;
+}
+.parrafos-cuerpo{
+    margin-top: -18px;
+    color: #517A74;
+    font-weight:lighter;
+}
+.parrafo-uno{
+    margin-bottom: 25px;
+}

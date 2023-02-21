@@ -23,6 +23,7 @@
             <a class="enlace-nav" href="index7.html">Ejercicio Siete</a>
             <a class="enlace-nav" href="index8.html">Ejercicio Ocho</a>
             <a class="enlace-nav" href="index9.html">Ejercicio Nueve</a>
+            <a class="enlace-nav" href="index10.html">Ejercicio Diez</a>
         </nav>
     </div>
 
@@ -33,7 +34,7 @@
 
     <div class="contenedor-ejercicio-seis">
 
-        <form action="">
+        <form action="" id="form-ejercicio-seis">
 
             <legend class="titulo-form"><strong>Registrar Usuario:</strong></legend>
 
@@ -41,37 +42,37 @@
 
                 <tr>
                     <td><label for="nombre">Nombre:</label></td>
-                    <td><input class="input-bg" type="text" name="nombre" value="ab"></td>
+                    <td><input class="input-bg" type="text" name="nombre" value="ab" id="nombre"></td>
                     <td>el tamaño tiene que estar entre 3 y 20</td>
                 </tr>
 
                 <tr>
                     <td><label for="apellido">Apellido:</label></td>
-                    <td><input class="input-bg" type="text" name="apellido"></td>
+                    <td><input class="input-bg" type="text" name="apellido" id="apellido"></td>
                     <td>no puede estar vacio</td>
                 </tr>
 
                 <tr>
                     <td><label for="correo">EMail:</label></td>
-                    <td><input class="input-bg" type="email" name="correo" value="cma-yahoo.es"></td>
+                    <td><input class="input-bg" type="email" name="correo" value="cma-yahoo.es" id="correo"></td>
                     <td>no es una direccion de correo bien formada</td>
                 </tr>
 
                 <tr>
                     <td><label for="contrasena">Contraseña:</label></td>
-                    <td><input type="password" name="contrasena" placeholder="war123456"></td>
+                    <td><input type="text" name="contrasena" placeholder="war123456" id="contraseña"></td>
                     <td></td>
                 </tr>
 
                 <tr>
                     <td><label for="edad">Edad:</label></td>
-                    <td><input class="input-bg" type="number" name="edad" min="1" value="17"></td>
+                    <td><input class="input-bg" type="number" name="edad" min="1" value="17" id="edad"></td>
                     <td>tiene que ser mayor o igual que 18</td>
                 </tr>
 
                 <tr>
                     <td><label for="Sexo">Sexo:</label></td>
-                    <td><select class="seleccion-sexo" name="Sexo">
+                    <td><select class="seleccion-sexo" name="Sexo" id="sexo">
                         <option value="false">False</option>
                         <option value="hombre">Hombre</option>
                         <option value="mujer">Mujer</option>
@@ -99,7 +100,6 @@
     </div>
 
     <script src="/js/javascript.js"></script>
-
     
 </body>
 </html>
