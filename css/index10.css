@@ -60,9 +60,9 @@ hr{
     width: 100%;
     height: 50px;
     margin-bottom: 10px;
-    box-shadow: 0px 2px 0px 2px black;
     font-size: larger;
-    background-color: #7D5A21;
+    background-image: url(/img/img-btn-10.jpg);
+    background-size: 100% 100%;
     color: #F7ED4C;
 }
 .btn-cuerpo:hover{

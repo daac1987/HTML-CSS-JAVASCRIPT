@@ -1,0 +1,22 @@
+.contenedor-portada{
+    background-image: url(https://blog.mailup.es/wp-content/uploads/2017/09/codice-04-cover.jpg);
+    background-size: 100% 100%;
+    margin-top: 15px;
+    padding-top: 20px;
+    height: 500px;
+    border: 1px solid black;
+}
+.nombres{
+    width: 100%;
+    text-align: center;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    color: white;
+    background-color: black;
+    margin-top: 100px;
+}
+.Universidad{
+    text-align: right;
+    color: white;
+    margin-right: 20px;
+}
